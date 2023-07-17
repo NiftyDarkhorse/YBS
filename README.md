@@ -8,7 +8,7 @@ Coroutines
 - Used to make async calls to the Flickr API
 
 GSON
-- Used to deserialse the FLicr API json repsonse into anm object
+- Used to deserialse the Flickr API json repsonse into anm object
 
 Coil
 - Used to show the image in the feed in the list/grid view
