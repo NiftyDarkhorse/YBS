@@ -1,6 +1,6 @@
 # YBS
 
-I have used Kotlin with Jetpack Compose to test myself with the latest Andorid approach of app creation. I have used ViewMoidels with a Repository to ensure that the logic to get the data from the Flicker is kept seperated away from the rest of the code keping the business logic seperate.
+I have used Kotlin with Jetpack Compose to test myself with the latest Andorid approach of app creation. I have used ViewModels with a Repository to ensure that the logic to get the data from the Flicker is kept seperated away from the rest of the code keping the business logic seperate.
 
 3rd party library imports used and why:
 
