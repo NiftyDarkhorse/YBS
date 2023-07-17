@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">YBSChallenge</string>
+
+    <string name="title_feed_fallback">Flickr Feed</string>
+    <string name="title_search_feed">Search Feed</string>
+
+    <string name="error_getting_feed">Unable get the feed, please ensure your device is online.</string>
+    <string name="error_getting_feed_in_layout">Unable get the feed, please ensure your device is online and click the refresh button.</string>
+    <string name="error_getting_feed_to_search">Unable search the feed, please ensure your device is online.</string>
+
+    <string name="search_tag_hint">Enter tag</string>
+    <string name="search_tag_tags_appear_here">Tags added will appear here.</string>
+    <string name="search_author_hint">Enter author</string>
+    <string name="search_match_all_tags">Match all tags</string>
+    <string name="search_no_results">No matching feed items</string>
+    <string name="search_fab">Search</string>
+
+    <string name="header_photo_title">Title</string>
+    <string name="header_photo_author">Author</string>
+    <string name="header_photo_taken">Taken</string>
+    <string name="header_photo_published">Published</string>
+    <string name="header_photo_description">Description</string>
+    <string name="header_photo_tags">Tags</string>
+
+    <string name="content_description_grid_view">Switch to grid view</string>
+    <string name="content_description_list_view">Switch to list view</string>
+    <string name="content_description_refresh">Refresh feed</string>
+    <string name="content_description_search">Search feed</string>
+    <string name="content_description_back">Navigate back</string>
+    <string name="content_description_add_tag">Add tag</string>
+    <string name="content_description_remove_tag">Remove tag</string>
+
+</resources>
